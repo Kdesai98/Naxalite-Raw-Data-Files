@@ -1,0 +1,1 @@
+These are all the raw data files for the paper "Infrastructure in India’s Internal War: A District-Level Analysis of the Naxalite-Maoist Conflict". I have attached the python scripting files as well, in addition to the final clean dataset for running regressions as well to make things easier for the user.
